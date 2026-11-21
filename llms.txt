@@ -21,7 +21,7 @@ HTML, CSS, JavaScript, TypeScript, React, PHP, MySQL, REST APIs, WordPress, WooC
 - LinkedIn: https://www.linkedin.com/in/himanshu-bisoyi/
 - GitHub: https://github.com/Himanshubisoyi
 - YouTube: https://www.youtube.com/@himanshubisoyi1826
-- Instagram: https://www.instagram.com/__d_i_p_u_____/
+- Instagram: https://www.instagram.com/himanshubisoyi.dev/
 
 ## Key pages
 - [Home](https://himanshubisoyi.com/): overview, skills and featured projects
