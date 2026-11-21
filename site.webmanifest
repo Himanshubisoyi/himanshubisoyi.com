@@ -1,0 +1,13 @@
+{
+  "name": "Himanshu Bisoyi – Freelance Website Developer",
+  "short_name": "Himanshu Bisoyi",
+  "description": "Freelance website developer in Hyderabad: business websites, company websites and e-commerce stores.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f6f6",
+  "theme_color": "#3d5af1",
+  "icons": [
+    { "src": "/assets/images/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/images/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

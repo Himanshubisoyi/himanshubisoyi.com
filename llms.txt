@@ -1,0 +1,34 @@
+# Himanshu Bisoyi – Freelance Website Developer
+
+> Himanshu Bisoyi is a freelance website developer based in Madhapur, Hyderabad, India, and a Senior Software Engineer at The Akshaya Patra Foundation. He has more than 4 years of experience and has delivered 150+ websites for clients in India, the USA, Australia, Canada and the UAE. He builds business websites, company websites, e-commerce stores (WooCommerce and Shopify) and landing pages, and offers ongoing maintenance.
+
+## Services and starting prices (INR)
+- Landing page: ₹15,000
+- Business website (up to 8 pages): from ₹35,000
+- Company website (up to 20 pages, blog, admin panel): from ₹60,000
+- E-commerce website (WooCommerce or Shopify, payments, customer accounts, order tracking): from ₹1,00,000
+- Maintenance: ₹24,000 per year after the free maintenance period
+- Payment terms: 50% advance, 50% before launch; the client owns the domain, hosting and website
+
+## Skills
+HTML, CSS, JavaScript, TypeScript, React, PHP, MySQL, REST APIs, WordPress, WooCommerce, Shopify, Wix, Webflow, Bootstrap, Tailwind CSS, Figma, Photoshop, SEO foundations.
+
+## Contact
+- Website: https://himanshubisoyi.com/
+- Email: himanshubisoyi7@gmail.com
+- Phone / WhatsApp: +91 93480 18484
+- Location: Madhapur, Hyderabad, Telangana, India
+- LinkedIn: https://www.linkedin.com/in/himanshu-bisoyi/
+- GitHub: https://github.com/Himanshubisoyi
+- YouTube: https://www.youtube.com/@himanshubisoyi1826
+- Instagram: https://www.instagram.com/__d_i_p_u_____/
+
+## Key pages
+- [Home](https://himanshubisoyi.com/): overview, skills and featured projects
+- [Freelance Website Developer in Hyderabad](https://himanshubisoyi.com/website-developer-hyderabad): services, process, areas served, FAQ
+- [E-commerce Website Development](https://himanshubisoyi.com/ecommerce-website-development): WooCommerce and Shopify stores
+- [Services & Pricing](https://himanshubisoyi.com/services): packages, add-ons and maintenance
+- [Website Development Cost in India (2026)](https://himanshubisoyi.com/website-cost-in-india): pricing guide
+- [Portfolio](https://himanshubisoyi.com/portfolio): selected client projects
+- [Resume](https://himanshubisoyi.com/resume): experience, skills, education and awards ([PDF](https://himanshubisoyi.com/assets/Himanshu_Bisoyi_Resume.pdf))
+- [Contact](https://himanshubisoyi.com/contact): enquiry form, phone and email

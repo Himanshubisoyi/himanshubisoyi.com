@@ -1,0 +1,13 @@
+# The site now lives on Cloudflare Pages at https://himanshubisoyi.com.
+# Netlify only redirects the old address there (Cloudflare Pages ignores this file).
+
+[build]
+  # Skip all future Netlify builds: the redirect below is already deployed,
+  # and skipped builds do not use Netlify credits.
+  ignore = "exit 0"
+
+[[redirects]]
+  from = "https://himanshubisoyi.netlify.app/*"
+  to = "https://himanshubisoyi.com/:splat"
+  status = 301
+  force = true
