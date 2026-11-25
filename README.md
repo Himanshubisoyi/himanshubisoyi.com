@@ -2,7 +2,7 @@
 
 Source code of my portfolio and freelance website: **[himanshubisoyi.com](https://himanshubisoyi.com)**
 
-I'm Himanshu Bisoyi, a Senior Software Engineer at The Akshaya Patra Foundation and a freelance website developer in Hyderabad, India. This site presents my services, prices, client projects and resume.
+I'm Himanshu Bisoyi, a Senior Software Engineer at ISKCON Bangalore and a freelance website developer in Hyderabad, India. This site presents my services, prices, client projects and resume.
 
 ## Highlights
 
