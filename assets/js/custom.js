@@ -266,6 +266,15 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
+    // Blog articles belong under "Blog"
+    if (!isActiveSet && (currentPage === "blog" || currentPage.startsWith("blog-"))) {
+        const blogMenu = document.querySelector(".blogs .menu-link");
+        if (blogMenu) {
+            blogMenu.classList.add("active");
+            isActiveSet = true;
+        }
+    }
+
     if (!isActiveSet) {
         const defaultMenu = document.querySelector(".about .menu-link");
         if (defaultMenu) {
