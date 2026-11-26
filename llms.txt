@@ -32,6 +32,7 @@ HTML, CSS, JavaScript, TypeScript, React, PHP, MySQL, REST APIs, WordPress, WooC
 - [Website Development Cost in India (2026)](https://himanshubisoyi.com/website-cost-in-india): pricing guide
 - [Blog](https://himanshubisoyi.com/blog): guides for business owners
   - [How to Choose a Website Developer](https://himanshubisoyi.com/blog-how-to-choose-a-website-developer): 10-point checklist
+  - [Website Maintenance Cost in India (2026)](https://himanshubisoyi.com/blog-website-maintenance-cost-india): what maintenance includes and costs
   - [WordPress vs Shopify for Small Businesses in India](https://himanshubisoyi.com/blog-wordpress-vs-shopify): platform comparison
 - [Portfolio](https://himanshubisoyi.com/portfolio): selected client projects
 - [Resume](https://himanshubisoyi.com/resume): experience, skills, education and awards ([PDF](https://himanshubisoyi.com/assets/Himanshu_Bisoyi_Resume.pdf))
