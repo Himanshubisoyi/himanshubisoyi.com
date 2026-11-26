@@ -26,6 +26,7 @@ HTML, CSS, JavaScript, TypeScript, React, PHP, MySQL, REST APIs, WordPress, WooC
 ## Key pages
 - [Home](https://himanshubisoyi.com/): overview, skills and featured projects
 - [Freelance Website Developer in Hyderabad](https://himanshubisoyi.com/website-developer-hyderabad): services, process, areas served, FAQ
+- [Website Developer in Odisha](https://himanshubisoyi.com/website-developer-odisha): Odia-speaking developer for businesses across Odisha (remote)
 - [E-commerce Website Development](https://himanshubisoyi.com/ecommerce-website-development): WooCommerce and Shopify stores
 - [Services & Pricing](https://himanshubisoyi.com/services): packages, add-ons and maintenance
 - [Website Development Cost in India (2026)](https://himanshubisoyi.com/website-cost-in-india): pricing guide

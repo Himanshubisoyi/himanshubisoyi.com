@@ -257,7 +257,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     // Service landing pages and the cost guide belong under "Services & Pricing"
-    const servicePages = ["website-developer-hyderabad", "ecommerce-website-development", "website-cost-in-india"];
+    const servicePages = ["website-developer-hyderabad", "website-developer-odisha", "ecommerce-website-development", "website-cost-in-india"];
     if (!isActiveSet && servicePages.includes(currentPage)) {
         const serviceMenu = document.querySelector(".service .menu-link");
         if (serviceMenu) {
